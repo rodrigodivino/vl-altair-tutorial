@@ -42,7 +42,7 @@ Conjunto de notebooks interativos para ensino de Visualização da Informação.
    
 6. Exercícios<br/>
    <small>
-     [Abrir no Colab](https://colab.research.google.com/github/rodrigodivino/vl-altair-tutorial/blob/exercises/notebooks/Altair_6_Exercicios.ipynb)
+     [Abrir no Colab](https://colab.research.google.com/github/rodrigodivino/vl-altair-tutorial/blob/exercicios/notebooks/Altair_6_Exercicios.ipynb)
    </small> 
 
 
