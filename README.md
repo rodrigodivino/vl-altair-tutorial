@@ -39,6 +39,11 @@ Conjunto de notebooks interativos para ensino de Visualização da Informação.
      [Pré Visualização - Jupyter Notebook](https://nbviewer.jupyter.org/github/tiagodavi70/vl-altair-tutorial/blob/master/notebooks/Altair_5_Cartografia.ipynb) |
      [Abrir no Colab](https://colab.research.google.com/github/tiagodavi70/vl-altair-tutorial/blob/master/notebooks/Altair_5_Cartografia.ipynb) | [Abrir no Observable](https://observablehq.com/@tiagodavi70/cartografia)
    </small>
+   
+6. Exercícios<br/>
+<small>
+  [Abrir no Colab](https://colab.research.google.com/github/rodrigodivino/vl-altair-tutorial/blob/exercises/notebooks/Altair_6_Exercícios.ipynb)
+</small>
 
 
 ## Como usar
